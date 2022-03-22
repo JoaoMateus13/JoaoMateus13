@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalhando como suporte de informatica
-- 🌱 Estudando HTML/CSS
+- 🌱 Estudando HTML/CSS e JAVA
  <div>
   <a href="https://github.com/JoaoMateus13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMateus13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
